@@ -1,12 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using dll_project;
 namespace New_folder
 {
     class Program
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("enternumber");
+            int a=int.Parse(Console.ReadLine());
+            even.check(a);
+
 
             List<student> list = new List<student>();
 

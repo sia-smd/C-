@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "class2/1.0.0": {
+        "dependencies": {
+          "dll_project": "1.0.0.0"
+        },
         "runtime": {
           "class2.dll": {}
+        }
+      },
+      "dll_project/1.0.0.0": {
+        "runtime": {
+          "dll_project.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -16,6 +27,11 @@
   "libraries": {
     "class2/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "dll_project/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

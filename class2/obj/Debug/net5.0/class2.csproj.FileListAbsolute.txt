@@ -14,3 +14,6 @@ E:\work\C#\class2\obj\Debug\net5.0\class2.dll
 E:\work\C#\class2\obj\Debug\net5.0\ref\class2.dll
 E:\work\C#\class2\obj\Debug\net5.0\class2.pdb
 E:\work\C#\class2\obj\Debug\net5.0\class2.genruntimeconfig.cache
+E:\work\C#\class2\bin\Debug\net5.0\dll_project.dll
+E:\work\C#\class2\bin\Debug\net5.0\dll_project.pdb
+E:\work\C#\class2\obj\Debug\net5.0\class2.csproj.CopyComplete
