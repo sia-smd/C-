@@ -33,11 +33,11 @@ namespace class1
                 fr_n.fr = check.ck1("enter correct price");
                 list_f.Add(fr_n);
                 i++;
-                r = Program.next();
+                r = print.next();
             } while (r == true);
 
 
-            Program.line("List of fruit ");
+            print.line("List of fruit ");
             // print list fruit
             Console.Clear();
 

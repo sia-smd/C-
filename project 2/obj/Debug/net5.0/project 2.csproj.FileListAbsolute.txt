@@ -14,3 +14,4 @@ E:\work\C#\project 2\obj\Debug\net5.0\project 2.dll
 E:\work\C#\project 2\obj\Debug\net5.0\ref\project 2.dll
 E:\work\C#\project 2\obj\Debug\net5.0\project 2.pdb
 E:\work\C#\project 2\obj\Debug\net5.0\project 2.genruntimeconfig.cache
+E:\work\C#\project 2\bin\Debug\net5.0\PersianDateTime.dll

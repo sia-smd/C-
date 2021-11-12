@@ -46,7 +46,7 @@ namespace class1
                 System.Console.WriteLine("enter weight");
                 ord.wg = check.ck1("enter correct weight");
                 order_L.Add(ord);
-                r = Program.next();
+                r = print.next();
             } while (r == true);
             return order_L;
 

@@ -1,11 +1,37 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "PersianDateTime/1.1.5082.36395": {
+        "type": "package",
+        "compile": {
+          "lib/net40/PersianDateTime.dll": {}
+        },
+        "runtime": {
+          "lib/net40/PersianDateTime.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PersianDateTime/1.1.5082.36395": {
+      "sha512": "rglVEiB5XXVpTuEH6XqM4U8z21pRKiX1KZcxfRVtLir46Rxt8NHWqw1Qdbphzy5k3dTOI3JQDsbrd7RIDaZg2w==",
+      "type": "package",
+      "path": "persiandatetime/1.1.5082.36395",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/PersianDateTime.XML",
+        "lib/net40/PersianDateTime.dll",
+        "persiandatetime.1.1.5082.36395.nupkg.sha512",
+        "persiandatetime.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "PersianDateTime >= 1.1.5082.36395"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\sia\\.nuget\\packages\\": {},
@@ -49,6 +75,12 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "PersianDateTime": {
+            "target": "Package",
+            "version": "[1.1.5082.36395, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -67,5 +99,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'PersianDateTime 1.1.5082.36395' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "PersianDateTime",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }
