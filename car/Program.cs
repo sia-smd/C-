@@ -1,15 +1,14 @@
 ﻿using System;
 
-namespace project_2
+namespace car
 {
     class Program
     {
-
         static void Main(string[] args)
         {
             Console.Clear();
             //در يك متغير  تاريخ حال حاضر شمسي رو ذخيره ميكنيم
-            PersianDateTime now = PersianDateTime.Now;
+            PersianDateTime now = PersianDateTime.now;
             System.Console.WriteLine(now);
             //  mitooni be sorat tike shode bebinish (int)
             System.Console.WriteLine(now.Year);
@@ -50,8 +49,6 @@ namespace project_2
             //
             System.Console.WriteLine("your new age :" + age);
 
-
-            
 
             //  در يك متغير تاريخ الان رو به صورت ميلادي رو ذخيره ميكنيم 
 
@@ -112,28 +109,20 @@ namespace project_2
 
             // فاصله بين 2 تا تاريخ
             TimeSpan t2 = now1 - age1;
-            // اين متغير به طور كلي فاصله رو نشون ميده و قابل استفاده نيست 
             System.Console.WriteLine("time diff:" + t2);
-            //  تو اين قسمت فاصله رو به نوعي كه ميخوايم تبديل ميكنيم
             //  فاصله به روز
             var t3 = t2.TotalDays.ToString();
             System.Console.WriteLine("time diff(days):" + t3);
             // فاصله بين 2 زمان به صورت ساعت
             var t4 = t2.TotalHours.ToString();
             System.Console.WriteLine("time diff(hours):" + t4);
-        
-
-        
-
-
-
-
-
-
-
-
         }
     }
+
+    internal class PersianDateTime
+    {
+        internal static PersianDateTime now;
+
+        public bool Year { get; internal set; }
+    }
 }
-
-

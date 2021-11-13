@@ -1,0 +1,16 @@
+E:\work\C#\car\obj\Debug\net5.0\car.csproj.AssemblyReference.cache
+E:\work\C#\car\obj\Debug\net5.0\car.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\C#\car\obj\Debug\net5.0\car.AssemblyInfoInputs.cache
+E:\work\C#\car\obj\Debug\net5.0\car.AssemblyInfo.cs
+E:\work\C#\car\obj\Debug\net5.0\car.csproj.CoreCompileInputs.cache
+E:\work\C#\car\bin\Debug\net5.0\car.exe
+E:\work\C#\car\bin\Debug\net5.0\car.deps.json
+E:\work\C#\car\bin\Debug\net5.0\car.runtimeconfig.json
+E:\work\C#\car\bin\Debug\net5.0\car.runtimeconfig.dev.json
+E:\work\C#\car\bin\Debug\net5.0\car.dll
+E:\work\C#\car\bin\Debug\net5.0\ref\car.dll
+E:\work\C#\car\bin\Debug\net5.0\car.pdb
+E:\work\C#\car\obj\Debug\net5.0\car.dll
+E:\work\C#\car\obj\Debug\net5.0\ref\car.dll
+E:\work\C#\car\obj\Debug\net5.0\car.pdb
+E:\work\C#\car\obj\Debug\net5.0\car.genruntimeconfig.cache

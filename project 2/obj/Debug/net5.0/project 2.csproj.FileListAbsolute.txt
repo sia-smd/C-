@@ -1,3 +1,8 @@
+E:\work\C#\project 2\obj\Debug\net5.0\project 2.csproj.AssemblyReference.cache
+E:\work\C#\project 2\obj\Debug\net5.0\project 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\C#\project 2\obj\Debug\net5.0\project 2.AssemblyInfoInputs.cache
+E:\work\C#\project 2\obj\Debug\net5.0\project 2.AssemblyInfo.cs
+E:\work\C#\project 2\obj\Debug\net5.0\project 2.csproj.CoreCompileInputs.cache
 E:\work\C#\project 2\bin\Debug\net5.0\project 2.exe
 E:\work\C#\project 2\bin\Debug\net5.0\project 2.deps.json
 E:\work\C#\project 2\bin\Debug\net5.0\project 2.runtimeconfig.json
@@ -5,13 +10,8 @@ E:\work\C#\project 2\bin\Debug\net5.0\project 2.runtimeconfig.dev.json
 E:\work\C#\project 2\bin\Debug\net5.0\project 2.dll
 E:\work\C#\project 2\bin\Debug\net5.0\ref\project 2.dll
 E:\work\C#\project 2\bin\Debug\net5.0\project 2.pdb
-E:\work\C#\project 2\obj\Debug\net5.0\project 2.csproj.AssemblyReference.cache
-E:\work\C#\project 2\obj\Debug\net5.0\project 2.GeneratedMSBuildEditorConfig.editorconfig
-E:\work\C#\project 2\obj\Debug\net5.0\project 2.AssemblyInfoInputs.cache
-E:\work\C#\project 2\obj\Debug\net5.0\project 2.AssemblyInfo.cs
-E:\work\C#\project 2\obj\Debug\net5.0\project 2.csproj.CoreCompileInputs.cache
+E:\work\C#\project 2\bin\Debug\net5.0\PersianDateTime.dll
 E:\work\C#\project 2\obj\Debug\net5.0\project 2.dll
 E:\work\C#\project 2\obj\Debug\net5.0\ref\project 2.dll
 E:\work\C#\project 2\obj\Debug\net5.0\project 2.pdb
 E:\work\C#\project 2\obj\Debug\net5.0\project 2.genruntimeconfig.cache
-E:\work\C#\project 2\bin\Debug\net5.0\PersianDateTime.dll

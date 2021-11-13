@@ -1,0 +1,103 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "PersianDate/3.5.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.3/PersianDate.Standard.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/PersianDate.Standard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersianDate/3.5.5": {
+      "sha512": "BmL0rngYlRj24st7ZPPO6vwH+iDAeXiMebsaqLnW6UtbwWr6cLGawmK4i8hDPUsYHA6rrMmEcktswceU89wDpg==",
+      "type": "package",
+      "path": "persiandate/3.5.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/PersianDate.README.md",
+        "lib/net35/PersianDate.dll",
+        "lib/netstandard1.3/PersianDate.Standard.dll",
+        "persiandate.3.5.5.nupkg.sha512",
+        "persiandate.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "PersianDate >= 3.5.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sia\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "e:\\work\\C#\\car\\car.csproj",
+      "projectName": "car",
+      "projectPath": "e:\\work\\C#\\car\\car.csproj",
+      "packagesPath": "C:\\Users\\sia\\.nuget\\packages\\",
+      "outputPath": "e:\\work\\C#\\car\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\sia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "PersianDate": {
+            "target": "Package",
+            "version": "[3.5.5, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
