@@ -1,0 +1,16 @@
+E:\work\C#\ers\bin\Debug\net5.0\ers.exe
+E:\work\C#\ers\bin\Debug\net5.0\ers.deps.json
+E:\work\C#\ers\bin\Debug\net5.0\ers.runtimeconfig.json
+E:\work\C#\ers\bin\Debug\net5.0\ers.runtimeconfig.dev.json
+E:\work\C#\ers\bin\Debug\net5.0\ers.dll
+E:\work\C#\ers\bin\Debug\net5.0\ref\ers.dll
+E:\work\C#\ers\bin\Debug\net5.0\ers.pdb
+E:\work\C#\ers\obj\Debug\net5.0\ers.csproj.AssemblyReference.cache
+E:\work\C#\ers\obj\Debug\net5.0\ers.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\C#\ers\obj\Debug\net5.0\ers.AssemblyInfoInputs.cache
+E:\work\C#\ers\obj\Debug\net5.0\ers.AssemblyInfo.cs
+E:\work\C#\ers\obj\Debug\net5.0\ers.csproj.CoreCompileInputs.cache
+E:\work\C#\ers\obj\Debug\net5.0\ers.dll
+E:\work\C#\ers\obj\Debug\net5.0\ref\ers.dll
+E:\work\C#\ers\obj\Debug\net5.0\ers.pdb
+E:\work\C#\ers\obj\Debug\net5.0\ers.genruntimeconfig.cache
