@@ -1,0 +1,5 @@
+E:\work\C#\ostad\obj\Debug\net5.0\ostad.csproj.AssemblyReference.cache
+E:\work\C#\ostad\obj\Debug\net5.0\ostad.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\C#\ostad\obj\Debug\net5.0\ostad.AssemblyInfoInputs.cache
+E:\work\C#\ostad\obj\Debug\net5.0\ostad.AssemblyInfo.cs
+E:\work\C#\ostad\obj\Debug\net5.0\ostad.csproj.CoreCompileInputs.cache
