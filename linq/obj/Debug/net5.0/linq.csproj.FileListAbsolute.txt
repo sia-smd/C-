@@ -1,0 +1,16 @@
+E:\work\C#\linq\bin\Debug\net5.0\linq.exe
+E:\work\C#\linq\bin\Debug\net5.0\linq.deps.json
+E:\work\C#\linq\bin\Debug\net5.0\linq.runtimeconfig.json
+E:\work\C#\linq\bin\Debug\net5.0\linq.runtimeconfig.dev.json
+E:\work\C#\linq\bin\Debug\net5.0\linq.dll
+E:\work\C#\linq\bin\Debug\net5.0\ref\linq.dll
+E:\work\C#\linq\bin\Debug\net5.0\linq.pdb
+E:\work\C#\linq\obj\Debug\net5.0\linq.csproj.AssemblyReference.cache
+E:\work\C#\linq\obj\Debug\net5.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\C#\linq\obj\Debug\net5.0\linq.AssemblyInfoInputs.cache
+E:\work\C#\linq\obj\Debug\net5.0\linq.AssemblyInfo.cs
+E:\work\C#\linq\obj\Debug\net5.0\linq.csproj.CoreCompileInputs.cache
+E:\work\C#\linq\obj\Debug\net5.0\linq.dll
+E:\work\C#\linq\obj\Debug\net5.0\ref\linq.dll
+E:\work\C#\linq\obj\Debug\net5.0\linq.pdb
+E:\work\C#\linq\obj\Debug\net5.0\linq.genruntimeconfig.cache

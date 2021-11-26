@@ -7,13 +7,41 @@ namespace linq
     {
         static void Main(string[] args)
         {
-           employer e=new employer();
-           e.add();
-           e.sort();
+        //    employer e=new employer();
+        //    e.add();
+        //    e.sort();
+
+        List<string> L_c=new List<string>
+        {
+            "asus",
+            "nokia",
+            "sony",
+            "samsung",
+            "LG",
+            "motorela",
+            "sanam",
+            "iphone",
+            "xiaomi",
+            "huawei"
+        };
+        string ans="y";
+        int i=1;
+        
+
+        do
+        {
+            Console.Clear();
+            var s=L_c.Skip((i-1)*2).Take(2).ToList();
+            s.ForEach(k1=>System.Console.WriteLine(k1));
+            System.Console.WriteLine("enter page number");
+            i=int.Parse(Console.ReadLine());     
+        } while (ans=="y");
+
          
             
         }
     }
+    
     class employer
     {
         int id;
