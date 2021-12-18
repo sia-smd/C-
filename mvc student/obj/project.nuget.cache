@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z/adkEpYJLMnUX7wReMRJe+mN/ye0Gw63lkP6q0ewBZB3DlvuiBi8AUegEDnRs/L11znTt2JbMDS6infWsA0BA==",
+  "dgSpecHash": "tP+ADTiKCI2o2p80G0LdD0EoK4X2Ww6CApCHgTaBm/CJ8WKY0ogdzbgO5K9u46Gon+Y2kxwbI/1Gkjnqo1rvYA==",
   "success": true,
-  "projectFilePath": "E:\\work\\C#\\mvc student\\mvc student.csproj",
+  "projectFilePath": "e:\\work\\C#\\mvc student\\mvc student.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sia\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\sia\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
