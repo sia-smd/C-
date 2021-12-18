@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RhlyoNQJ6eBcPWmxgw8CN5ADkMupgJeqSCKvjwkGRNx/NsfMmu3SiBcBti29Qs474Az2OL23+3tC4z9S0gGmYA==",
+  "dgSpecHash": "++JJK/okig116r4zw+Ts0djKyTJC7m7FQGwZ8T1irZMlL6Jbi2NF7xceXevaYeH+PMXRZM/pJ1ckGPXPvr02mA==",
   "success": true,
-  "projectFilePath": "E:\\work\\C#\\sql\\sql.csproj",
+  "projectFilePath": "e:\\work\\C#\\sql\\sql.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sia\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\sia\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

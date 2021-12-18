@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\work\\C#\\mvc\\mvc.csproj": {}
+    "e:\\work\\C#\\mvc\\mvc.csproj": {}
   },
   "projects": {
-    "E:\\work\\C#\\mvc\\mvc.csproj": {
+    "e:\\work\\C#\\mvc\\mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\work\\C#\\mvc\\mvc.csproj",
+        "projectUniqueName": "e:\\work\\C#\\mvc\\mvc.csproj",
         "projectName": "mvc",
-        "projectPath": "E:\\work\\C#\\mvc\\mvc.csproj",
+        "projectPath": "e:\\work\\C#\\mvc\\mvc.csproj",
         "packagesPath": "C:\\Users\\sia\\.nuget\\packages\\",
-        "outputPath": "E:\\work\\C#\\mvc\\obj\\",
+        "outputPath": "e:\\work\\C#\\mvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

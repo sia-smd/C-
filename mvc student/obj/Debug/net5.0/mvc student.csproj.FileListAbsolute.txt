@@ -1,0 +1,47 @@
+E:\work\C#\mvc student\bin\Debug\net5.0\appsettings.Development.json
+E:\work\C#\mvc student\bin\Debug\net5.0\appsettings.json
+E:\work\C#\mvc student\bin\Debug\net5.0\mvc student.exe
+E:\work\C#\mvc student\bin\Debug\net5.0\mvc student.deps.json
+E:\work\C#\mvc student\bin\Debug\net5.0\mvc student.runtimeconfig.json
+E:\work\C#\mvc student\bin\Debug\net5.0\mvc student.runtimeconfig.dev.json
+E:\work\C#\mvc student\bin\Debug\net5.0\mvc student.dll
+E:\work\C#\mvc student\bin\Debug\net5.0\ref\mvc student.dll
+E:\work\C#\mvc student\bin\Debug\net5.0\mvc student.pdb
+E:\work\C#\mvc student\bin\Debug\net5.0\mvc student.Views.dll
+E:\work\C#\mvc student\bin\Debug\net5.0\mvc student.Views.pdb
+E:\work\C#\mvc student\obj\Debug\net5.0\mvc student.csproj.AssemblyReference.cache
+E:\work\C#\mvc student\obj\Debug\net5.0\mvc student.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\C#\mvc student\obj\Debug\net5.0\mvc student.AssemblyInfoInputs.cache
+E:\work\C#\mvc student\obj\Debug\net5.0\mvc student.AssemblyInfo.cs
+E:\work\C#\mvc student\obj\Debug\net5.0\mvc student.csproj.CoreCompileInputs.cache
+E:\work\C#\mvc student\obj\Debug\net5.0\mvc student.MvcApplicationPartsAssemblyInfo.cache
+E:\work\C#\mvc student\obj\Debug\net5.0\mvc student.RazorAssemblyInfo.cache
+E:\work\C#\mvc student\obj\Debug\net5.0\mvc student.RazorAssemblyInfo.cs
+E:\work\C#\mvc student\obj\Debug\net5.0\staticwebassets\mvc student.StaticWebAssets.Manifest.cache
+E:\work\C#\mvc student\obj\Debug\net5.0\staticwebassets\mvc student.StaticWebAssets.xml
+E:\work\C#\mvc student\obj\Debug\net5.0\scopedcss\bundle\mvc student.styles.css
+E:\work\C#\mvc student\obj\Debug\net5.0\mvc student.TagHelpers.input.cache
+E:\work\C#\mvc student\obj\Debug\net5.0\mvc student.TagHelpers.output.cache
+E:\work\C#\mvc student\obj\Debug\net5.0\mvc student.RazorCoreGenerate.cache
+E:\work\C#\mvc student\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\work\C#\mvc student\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\work\C#\mvc student\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\work\C#\mvc student\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\work\C#\mvc student\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\work\C#\mvc student\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\work\C#\mvc student\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\work\C#\mvc student\obj\Debug\net5.0\mvc student.RazorTargetAssemblyInfo.cache
+E:\work\C#\mvc student\obj\Debug\net5.0\mvc student.RazorTargetAssemblyInfo.cs
+E:\work\C#\mvc student\obj\Debug\net5.0\mvc student.Views.pdb
+E:\work\C#\mvc student\obj\Debug\net5.0\mvc student.dll
+E:\work\C#\mvc student\obj\Debug\net5.0\ref\mvc student.dll
+E:\work\C#\mvc student\obj\Debug\net5.0\mvc student.pdb
+E:\work\C#\mvc student\obj\Debug\net5.0\mvc student.genruntimeconfig.cache
+E:\work\C#\mvc student\obj\Debug\net5.0\mvc student.csproj.CopyComplete
+E:\work\C#\mvc student\bin\Debug\net5.0\Dapper.dll
+E:\work\C#\mvc student\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\work\C#\mvc student\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\work\C#\mvc student\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\work\C#\mvc student\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\work\C#\mvc student\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\work\C#\mvc student\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
