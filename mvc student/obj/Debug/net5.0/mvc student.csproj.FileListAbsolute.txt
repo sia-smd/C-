@@ -45,3 +45,50 @@ E:\work\C#\mvc student\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
 E:\work\C#\mvc student\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
 E:\work\C#\mvc student\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 E:\work\C#\mvc student\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\work\c#\C-\mvc student\bin\Debug\net5.0\appsettings.Development.json
+d:\work\c#\C-\mvc student\bin\Debug\net5.0\appsettings.json
+d:\work\c#\C-\mvc student\bin\Debug\net5.0\mvc student.exe
+d:\work\c#\C-\mvc student\bin\Debug\net5.0\mvc student.deps.json
+d:\work\c#\C-\mvc student\bin\Debug\net5.0\mvc student.runtimeconfig.json
+d:\work\c#\C-\mvc student\bin\Debug\net5.0\mvc student.runtimeconfig.dev.json
+d:\work\c#\C-\mvc student\bin\Debug\net5.0\mvc student.dll
+d:\work\c#\C-\mvc student\bin\Debug\net5.0\ref\mvc student.dll
+d:\work\c#\C-\mvc student\bin\Debug\net5.0\mvc student.pdb
+d:\work\c#\C-\mvc student\bin\Debug\net5.0\mvc student.Views.dll
+d:\work\c#\C-\mvc student\bin\Debug\net5.0\mvc student.Views.pdb
+d:\work\c#\C-\mvc student\bin\Debug\net5.0\Dapper.dll
+d:\work\c#\C-\mvc student\bin\Debug\net5.0\System.Data.SqlClient.dll
+d:\work\c#\C-\mvc student\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+d:\work\c#\C-\mvc student\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+d:\work\c#\C-\mvc student\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+d:\work\c#\C-\mvc student\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\work\c#\C-\mvc student\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\mvc student.csproj.AssemblyReference.cache
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\mvc student.GeneratedMSBuildEditorConfig.editorconfig
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\mvc student.AssemblyInfoInputs.cache
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\mvc student.AssemblyInfo.cs
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\mvc student.csproj.CoreCompileInputs.cache
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\mvc student.MvcApplicationPartsAssemblyInfo.cache
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\mvc student.RazorAssemblyInfo.cache
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\mvc student.RazorAssemblyInfo.cs
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\staticwebassets\mvc student.StaticWebAssets.Manifest.cache
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\staticwebassets\mvc student.StaticWebAssets.xml
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\scopedcss\bundle\mvc student.styles.css
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\mvc student.TagHelpers.input.cache
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\mvc student.TagHelpers.output.cache
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\mvc student.RazorCoreGenerate.cache
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\mvc student.RazorTargetAssemblyInfo.cache
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\mvc student.RazorTargetAssemblyInfo.cs
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\mvc student.Views.pdb
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\mvc student.csproj.CopyComplete
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\mvc student.dll
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\ref\mvc student.dll
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\mvc student.pdb
+d:\work\c#\C-\mvc student\obj\Debug\net5.0\mvc student.genruntimeconfig.cache

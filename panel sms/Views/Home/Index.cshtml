@@ -1,0 +1,16 @@
+﻿
+@model entity.vm_student
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    
+    <div class="col-6">
+        <form action="/home/add">
+        <label for="">name</label> <input type="text" asp-for="Name">
+        <label for="">family</label> <input type="text" asp-for="Family">
+        <label for="">phone</label> <input type="text" asp-for="Mobile">
+        <button type="submit">add</button>
+        
+        
+        </form>
+    </div>
+</div>

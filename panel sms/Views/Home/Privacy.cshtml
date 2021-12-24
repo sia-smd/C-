@@ -1,0 +1,7 @@
+@model List<entity.vm_student> 
+
+
+    @foreach (var item in   Model)
+    {
+        <P>@item.Name <span>-</span>@item.Family</P>
+    }

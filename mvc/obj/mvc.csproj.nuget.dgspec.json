@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "e:\\work\\C#\\mvc\\mvc.csproj": {}
+    "d:\\work\\c#\\C-\\mvc\\mvc.csproj": {}
   },
   "projects": {
-    "e:\\work\\C#\\mvc\\mvc.csproj": {
+    "d:\\work\\c#\\C-\\mvc\\mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\work\\C#\\mvc\\mvc.csproj",
+        "projectUniqueName": "d:\\work\\c#\\C-\\mvc\\mvc.csproj",
         "projectName": "mvc",
-        "projectPath": "e:\\work\\C#\\mvc\\mvc.csproj",
-        "packagesPath": "C:\\Users\\sia\\.nuget\\packages\\",
-        "outputPath": "e:\\work\\C#\\mvc\\obj\\",
+        "projectPath": "d:\\work\\c#\\C-\\mvc\\mvc.csproj",
+        "packagesPath": "C:\\Users\\siava\\.nuget\\packages\\",
+        "outputPath": "d:\\work\\c#\\C-\\mvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\siava\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
