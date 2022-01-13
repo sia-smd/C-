@@ -34,23 +34,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sia\\.nuget\\packages\\": {},
+    "C:\\Users\\siava\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\work\\C#\\project 2\\project 2.csproj",
+      "projectUniqueName": "D:\\work\\c#\\C-\\project 2\\project 2.csproj",
       "projectName": "project 2",
-      "projectPath": "E:\\work\\C#\\project 2\\project 2.csproj",
-      "packagesPath": "C:\\Users\\sia\\.nuget\\packages\\",
-      "outputPath": "E:\\work\\C#\\project 2\\obj\\",
+      "projectPath": "D:\\work\\c#\\C-\\project 2\\project 2.csproj",
+      "packagesPath": "C:\\Users\\siava\\.nuget\\packages\\",
+      "outputPath": "D:\\work\\c#\\C-\\project 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\sia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\siava\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -91,12 +91,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.13, 5.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   },

@@ -1,0 +1,15 @@
+D:\work\c#\C-\Constrocters\bin\Debug\net6.0\Constrocters.exe
+D:\work\c#\C-\Constrocters\bin\Debug\net6.0\Constrocters.deps.json
+D:\work\c#\C-\Constrocters\bin\Debug\net6.0\Constrocters.runtimeconfig.json
+D:\work\c#\C-\Constrocters\bin\Debug\net6.0\Constrocters.dll
+D:\work\c#\C-\Constrocters\bin\Debug\net6.0\ref\Constrocters.dll
+D:\work\c#\C-\Constrocters\bin\Debug\net6.0\Constrocters.pdb
+D:\work\c#\C-\Constrocters\obj\Debug\net6.0\Constrocters.csproj.AssemblyReference.cache
+D:\work\c#\C-\Constrocters\obj\Debug\net6.0\Constrocters.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\c#\C-\Constrocters\obj\Debug\net6.0\Constrocters.AssemblyInfoInputs.cache
+D:\work\c#\C-\Constrocters\obj\Debug\net6.0\Constrocters.AssemblyInfo.cs
+D:\work\c#\C-\Constrocters\obj\Debug\net6.0\Constrocters.csproj.CoreCompileInputs.cache
+D:\work\c#\C-\Constrocters\obj\Debug\net6.0\Constrocters.dll
+D:\work\c#\C-\Constrocters\obj\Debug\net6.0\ref\Constrocters.dll
+D:\work\c#\C-\Constrocters\obj\Debug\net6.0\Constrocters.pdb
+D:\work\c#\C-\Constrocters\obj\Debug\net6.0\Constrocters.genruntimeconfig.cache

@@ -112,9 +112,6 @@ namespace atm
         public void cash()
         {
             Console.Clear();
-            System.Console.Write("Enter the desired amount : ");
-            int cash = ATM.ck1("enter correct amount");
-
             foreach (var item in list_card)
             {
                 if (item.id == card_no)

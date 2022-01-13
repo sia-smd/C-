@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YL4UY1ESciVshwQl2TU98Pa9r6mXkrba54rNEzh+c9SI7P/jUSwh14J9xNO6EDalQDyGtnMd2mztA/tQcQD9+A==",
+  "dgSpecHash": "PTjNGkW2wl6K6caqBm/QcdVQnPEtpaaRvUYouXWbklqmbns7u2tDZoEOJOxXBTfpIOT95og7FD32ux+iZjwcCA==",
   "success": true,
-  "projectFilePath": "E:\\work\\C#\\atm\\atm.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\work\\c#\\C-\\atm\\atm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\siava\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

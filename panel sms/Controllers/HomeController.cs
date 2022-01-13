@@ -37,13 +37,15 @@ namespace panel_sms.Controllers
             _connect.SaveChanges();
             return RedirectToAction("index");
         }
-         public IActionResult update(int id)
+         public IActionResult update(student st)
         {
-            var select=_connect.students.Where(b=>b.id==id).FirstOrDefault();
-            select.Name="arash";
+            var select=_connect.students.Where(b=>b.id==st.id).FirstOrDefault();
+            select.Name=st.Name;
+            select.Name=st.Family;
+            select.Name=st.Mobile;
             _connect.Update(select);
             _connect.SaveChanges();
-            return RedirectToAction("index");
+            return RedirectToAction("privacy");
         }
          public IActionResult delete(int id)
         {
@@ -51,25 +53,25 @@ namespace panel_sms.Controllers
             
             _connect.students.Remove(select);
             _connect.SaveChanges();
-            return RedirectToAction("index");
+            return RedirectToAction("privacy");
         }
 
         public IActionResult Privacy()
         {
 
             var s=_connect.students.ToList();
-            List<vm_student> d=new List<vm_student>();
-            foreach (var item in s)
-            {
-                vm_student g=new vm_student();
-                 g.Name=item.Name;
-                 g.Family=item.Family;
-                d.Add(g);
+            // List<vm_student> d=new List<vm_student>();
+            // foreach (var item in s)
+            // {
+            //     vm_student g=new vm_student();
+            //      g.Name=item.Name;
+            //      g.Family=item.Family;
+            //     d.Add(g);
 
               
-            }
+            // }
             
-            return View(d);
+            return View(s);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

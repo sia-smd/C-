@@ -1,7 +1,23 @@
-@model List<entity.vm_student> 
+@model List<entity.student>
 
-
+    <table style="border: solid;border-width: 4px;">
+        <tr>
+        <th>id</th>
+        <tH>name</th>
+        <th>family</th>
+        <th>mobile</th>
+        <th>del</th>
+        </tr>
     @foreach (var item in   Model)
     {
-        <P>@item.Name <span>-</span>@item.Family</P>
+        <tr style="border: solid;border-width: 1px;">
+        <td>@item.id</td>
+        <td>@item.Name</td>
+        <td>@item.Family</td>
+        <td>@item.Mobile</td>
+        <td>
+            <a href="/home/delete/@item.id" class="btn btn-danger">del</a>
+        </td>
+    </tr>
     }
+    </table> 

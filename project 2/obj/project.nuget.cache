@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "vuD9T+jGHiGEAfYe/alMuYNFGZawZ9M3pTLQyPj8O34ObnDZC3xG4lcdr3IEDwOqIG1Y6ERX1zbxqWPmb6RjJA==",
+  "dgSpecHash": "PQd66K6sewRiDelI3zZJMHbvNpHSkMb3xoKGAkh6rDIUJXIvGi7BQjLoTvCV2X/+eNMHD0ny0U6wj9DzlLOaBQ==",
   "success": true,
-  "projectFilePath": "E:\\work\\C#\\project 2\\project 2.csproj",
+  "projectFilePath": "D:\\work\\c#\\C-\\project 2\\project 2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sia\\.nuget\\packages\\persiandatetime\\1.1.5082.36395\\persiandatetime.1.1.5082.36395.nupkg.sha512"
+    "C:\\Users\\siava\\.nuget\\packages\\persiandatetime\\1.1.5082.36395\\persiandatetime.1.1.5082.36395.nupkg.sha512",
+    "C:\\Users\\siava\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
   "logs": [
     {

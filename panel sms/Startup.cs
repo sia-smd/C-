@@ -26,6 +26,7 @@ namespace panel_sms
         { 
             services.AddDbContext<connect>();
             services.AddControllersWithViews();
+            services.AddRazorPages().AddRazorRuntimeCompilation();
            
         }
 

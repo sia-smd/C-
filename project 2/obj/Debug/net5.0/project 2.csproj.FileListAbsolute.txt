@@ -15,3 +15,21 @@ E:\work\C#\project 2\obj\Debug\net5.0\project 2.dll
 E:\work\C#\project 2\obj\Debug\net5.0\ref\project 2.dll
 E:\work\C#\project 2\obj\Debug\net5.0\project 2.pdb
 E:\work\C#\project 2\obj\Debug\net5.0\project 2.genruntimeconfig.cache
+D:\work\c#\C-\project 2\bin\Debug\net5.0\project 2.exe
+D:\work\c#\C-\project 2\bin\Debug\net5.0\project 2.deps.json
+D:\work\c#\C-\project 2\bin\Debug\net5.0\project 2.runtimeconfig.json
+D:\work\c#\C-\project 2\bin\Debug\net5.0\project 2.runtimeconfig.dev.json
+D:\work\c#\C-\project 2\bin\Debug\net5.0\project 2.dll
+D:\work\c#\C-\project 2\bin\Debug\net5.0\ref\project 2.dll
+D:\work\c#\C-\project 2\bin\Debug\net5.0\project 2.pdb
+D:\work\c#\C-\project 2\bin\Debug\net5.0\PersianDateTime.dll
+D:\work\c#\C-\project 2\obj\Debug\net5.0\project 2.csproj.AssemblyReference.cache
+D:\work\c#\C-\project 2\obj\Debug\net5.0\project 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\c#\C-\project 2\obj\Debug\net5.0\project 2.AssemblyInfoInputs.cache
+D:\work\c#\C-\project 2\obj\Debug\net5.0\project 2.AssemblyInfo.cs
+D:\work\c#\C-\project 2\obj\Debug\net5.0\project 2.csproj.CoreCompileInputs.cache
+D:\work\c#\C-\project 2\obj\Debug\net5.0\project 2.csproj.CopyComplete
+D:\work\c#\C-\project 2\obj\Debug\net5.0\project 2.dll
+D:\work\c#\C-\project 2\obj\Debug\net5.0\ref\project 2.dll
+D:\work\c#\C-\project 2\obj\Debug\net5.0\project 2.pdb
+D:\work\c#\C-\project 2\obj\Debug\net5.0\project 2.genruntimeconfig.cache
