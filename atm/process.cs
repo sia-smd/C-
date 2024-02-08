@@ -4,31 +4,8 @@ using System.Collections.Generic;
 
 namespace atm
 {
-    interface atm
-    {
-        void add();
-        bool select();
-        void CtoC();
-        void update();
-        void credit();
-        void cash();
-        void add_history(string id, int price, string type);
-        void history();
-    }
-    class card
-    {
-        public string id;
-        public string name;
-        public int price;
-        public string pass;
-    }
-    class card_history
-    {
-        public string id;
-        public int price;
-        public DateTime date;
-        public string type;
-    }
+   
+    
     class process : atm
     {
         static List<card> list_card = new List<card>();
